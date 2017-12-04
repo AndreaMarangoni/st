@@ -4,3 +4,5 @@
 *.o
 st
 
+config.h
+
