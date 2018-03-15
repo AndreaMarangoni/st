@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-char font[] = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
+char font[] = "xos4 Terminus:pixelsize=12:antialias=true:autohint=true";
 int borderpx = 2;
 
 /*
@@ -49,7 +49,7 @@ unsigned int actionfps = 30;
  * blinking timeout (set to 0 to disable blinking) for the terminal blinking
  * attribute.
  */
-unsigned int blinktimeout = 800;
+unsigned int blinktimeout = 200;
 
 /*
  * thickness of underline and bar cursors
